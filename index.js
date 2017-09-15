@@ -16,7 +16,7 @@ function formatTwoDecimalPlace(value) {
 	return String(beats) + "." + strRemainder
 }
 
-function get(format="int", subbeats=false) {
+function get(format="number", subbeats=false) {
 	let momentNow = getMomentNow()
 	let momentDayStart = getMomentNow()
 	momentDayStart.hour(0)
