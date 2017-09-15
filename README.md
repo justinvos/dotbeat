@@ -2,7 +2,7 @@
 
 Simple Swatch Internet Time grabber and formatter. 
 
-## Installation
+### Installation
 
 ```npm install dotbeat```
 
