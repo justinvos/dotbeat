@@ -1,22 +1,20 @@
 {
   "name": "dotbeat",
   "version": "1.0.2",
-	"description": "Simple Swatch Internet Time grabber and formatter.",
-	"keywords": [
+  "description": "Simple Swatch Internet Time grabber and formatter.",
+  "keywords": [
     "time",
     "swatch",
     "beat",
     "internet",
     "dot"
-	],
+  ],
   "main": "index.js",
   "scripts": {
-		"start": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Justin Vos",
   "license": "ISC",
-  "dependencies": {
-    "moment": "^2.18.1"
-  }
+  "dependencies": {}
 }
